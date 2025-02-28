@@ -1,0 +1,35 @@
+{
+  "name": "pydark-theme",
+  "displayName": "PyDark Theme",
+  "description": "Tema escuro para o Visual Studio Code (VS Code), projetado para elevar a experiência de codificação em Python",
+  "version": "1.0.0",
+  "publisher": "germanocastanho",
+  "license": "LGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/germanocastanho/pydark-theme"
+  },
+  "homepage": "https://github.com/germanocastanho/pydark-theme",
+  "bugs": {
+    "email": "germanocastanho@proton.me",
+    "url": "https://github.com/germanocastanho/pydark-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [],
+  "icon": "",
+  "contributes": {
+    "themes": [
+      {
+        "label": "PyDark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/custom-color-theme.json"
+      }
+    ]
+  }
+}
