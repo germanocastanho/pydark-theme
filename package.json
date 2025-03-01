@@ -21,8 +21,12 @@
     "Themes",
     "Other"
   ],
-  "keywords": [],
-  "icon": "",
+  "keywords": [
+    "theme",
+    "dark",
+    "python"
+  ],
+  "icon": "./assets/icon.png",
   "contributes": {
     "themes": [
       {

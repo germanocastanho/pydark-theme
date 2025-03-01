@@ -1745,7 +1745,7 @@
       }
     },
     {
-      "name": "italic",
+      "name": "Italic",
       "scope": [
         "comment",
         "keyword",
